@@ -1,42 +1,32 @@
 {
   "contacts": [
     {
-      "title": "Иван Иванович",
+      "title": "lvl1",
       "number": "1",
-      "id": 7
+      "id": 1
     },
     {
-      "title": "Василий Петрович",
+      "title": "lvl2",
       "number": "2",
-      "bossId": 7,
-      "id": 8
+      "bossId": 1,
+      "id": 2
     },
     {
-      "title": "Марк Инокентьевич",
+      "title": "lvl3",
       "number": "3",
-      "bossId": 8,
-      "id": 9
+      "bossId": 2,
+      "id": 3
     },
     {
-      "title": "Олег Петрович",
+      "title": "lvl1",
       "number": "4",
-      "id": 10
+      "id": 4
     },
     {
-      "title": "Григорий Борисович",
+      "title": "lvl2",
       "number": "5",
-      "id": 11
-    },
-    {
-      "title": "Данила Николаквич",
-      "number": "6",
-      "bossId": 8,
-      "id": 12
-    },
-    {
-      "title": "Филипп Станиславович",
-      "number": "9779",
-      "id": 13
+      "bossId": 1,
+      "id": 5
     }
   ]
 }
